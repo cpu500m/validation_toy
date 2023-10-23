@@ -35,3 +35,4 @@
 #### 로그인기능 ( 스프링 인터셉터 도입 ) -> 게시물 검색 ->DB연동 ( MYSQL? Mongo ? Mriadb?  뭘 써볼까) + ORM 기술 ( JPA, Spring Data JPA, QueryDSL)
 
 ## 다음 프로젝트!
+#### (1) login기능 추가 : [login_toy](https://github.com/cpu500m/login_toy)
