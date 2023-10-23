@@ -16,6 +16,22 @@
 ### message ,internationalization
 #### 추후 페이지 확장을 위해 spring에서 제공하는 message 편의 클래스를 사용하고 , 국제화도 적용할 예정.
 
-## 이후 프로젝트들에서 확장할 사항들
-### 예외 처리 및 오류 페이지 추가  -> 로그인 기능 -> DB연결
+# 결과
 
+## 스타일
+<img width="364" alt="image" src="https://github.com/cpu500m/validation_toy/assets/80875680/588cd435-f9b2-469a-a275-6def6b10e625">
+
+## 검증
+<img width="354" alt="image" src="https://github.com/cpu500m/validation_toy/assets/80875680/e8d475ca-b7ba-4816-8b41-93c272f95420">
+
+## 국제화
+<img width="391" alt="image" src="https://github.com/cpu500m/validation_toy/assets/80875680/5ceae76c-2f9c-44d6-8f82-c6daf1e25de4">
+
+
+## 소감
+#### 홈페이지에서 언어를 선택해서 국제화를 적용하면 좋을 듯. 나중에 그렇게 바꾸자. 그리고 이미지 파일도 본문안에 넣으면 좋을텐데.. 그 부분도 나중에 꼭 바꿔보는걸로!  + 다음에는 게시판이 아니고 부트스트랩 무료 테마를 이용해서 쇼핑몰 홈페이지 같은걸 만들어봐야겠다
+
+## 다음 프로젝트로 생각중인 것들
+## 로그인기능 ( 스프링 인터셉터 도입 ) -> 게시물 검색 ->DB연동 ( MYSQL? Mongo ? Mriadb?  뭘 써볼까) + ORM 기술 ( JPA, Spring Data JPA, QueryDSL)
+
+## 다음 프로젝트!
